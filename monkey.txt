@@ -3,3 +3,5 @@ m add 1
 
 m user2 change user1 add 1
 user1 add somethoing
+user2 add something
+
