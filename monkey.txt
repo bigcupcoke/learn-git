@@ -6,8 +6,5 @@ user1 add somethoing
 user2 add something
 
 user1 add something again
-<<<<<<< Updated upstream
 user2 add something again
-=======
 user1 add something again and again
->>>>>>> Stashed changes
